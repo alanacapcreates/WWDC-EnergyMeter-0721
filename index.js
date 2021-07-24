@@ -33,7 +33,7 @@ function renderMood(){
     switch(meter.value){
         case 10:
             mood.textContent = "🥳"
-            mood.style.top = "-25px"
+            mood.style.top = "-30px"
         break;
         case 9:
             mood.textContent = "😄"
@@ -69,11 +69,11 @@ function renderMood(){
         break;
         case 1:
             mood.textContent = "😵"
-            mood.style.top = "145px"
+            mood.style.top = "140px"
         break;
         case 0:
             mood.textContent = "👻"
-            mood.style.top = "165px"
+            mood.style.top = "160px"
         break;
         default:
             return

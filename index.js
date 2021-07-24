@@ -24,7 +24,6 @@ btnDecrease.addEventListener("click",function(){
 let timer = setInterval(updateMood, 3000)
 
 function updateMood() {
-    const prevAmount = meter.value
     meter.value--
     renderMood(meter.value)
 }

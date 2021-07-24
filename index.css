@@ -11,10 +11,15 @@ body,
 body {
     justify-content: center;
     background: whitesmoke;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
     font-size: 24px;
     height: 100vh;
     font-weight: 700;
     font-size: 1.5rem;
+}
+h3{
+    font-weight: 600;
 }
 .flex-row{
     flex-direction: row;

@@ -4,7 +4,7 @@
 
 The goal of this challenge is to create an enerygy meter that adjusts depending on user input.
 
-## Main Objective
+## Stretch Goal
 
 Reduce the energy over time + change the theme
 
